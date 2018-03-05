@@ -14,7 +14,7 @@ namespace Soap.Tests
         [TestMethod()]
         public void GetNameSoapTest()
         {
-            Service1 s1 = new Service1();
+            Service12 s1 = new Service12();
 
             var expectedResult = s1.GetNameSoap();
 
